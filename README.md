@@ -7,7 +7,7 @@
 ##### b. Validar el token recibido en las cabeceras en la ruta que corresponda
 ##### c. Reportar por la terminal las consultas recibidas en el servidor
 
-#### 3. Se hace la firmar, verificacion y decodificacion de tokens JWT (3 puntos)
+#### 3. Se hace la firma, verificacion y decodificacion de tokens JWT (3 puntos)
 
 #### 4. Se capturan y devuelven los posibles errores que ocurran en el servidor (0.5 puntos)
 
