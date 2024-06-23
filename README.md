@@ -11,4 +11,6 @@
 
 #### 4. Se capturan y devuelven los posibles errores que ocurran en el servidor (0.5 puntos)
 
-#### 5. Se encriptar las contraseñas al momento de registrar nuevos usuarios (3 puntos)
+#### 5. Se encriptan las contraseñas al momento de registrar nuevos usuarios (3 puntos)
+
+By Jorge Espinoza
